@@ -1,7 +1,7 @@
 ### Hello there! :wave:
 :us:/:canada:/:chile:
 
-I'm an astronomy postdoctoral fellow currently based in Santiago, Chile. I use ultraviolet, visible, and infrared imaging data — and sometimes spectroscopy — to study nearby galaxies. Specifically, I am interested in how the compact, dense objects at the centers of galaxies (manifesting as nuclear star clusters and/or supermassive black holes) came to be, as well as how they influence and are influenced by their host galaxies and other factors.
+I'm an astronomy postdoctoral fellow currently based in Victoria, Canada. I use ultraviolet, visible, and infrared imaging data — and sometimes spectroscopy — to study nearby galaxies. Specifically, I am interested in how the compact, dense objects at the centers of galaxies (manifesting as nuclear star clusters and/or supermassive black holes) came to be, as well as how they influence and are influenced by their host galaxies and other factors.
 
 - 🔭 I’m working on using clustering algorithms to identify different galaxy groups and environments
 - 🌱 I’m currently learning how to use github (better late than never!)
