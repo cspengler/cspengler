@@ -1,4 +1,4 @@
-###Hello there! :wave:
+### Hello there! :wave:
 :canada:/:us:/:chile:
 
 I'm a data scientist and astronomer currently based in Victoria, Canada. I'm a US citizen, but I have lived and worked in Canada or Chile for my entire career.
