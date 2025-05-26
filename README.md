@@ -5,10 +5,10 @@ I'm a data scientist and astronomer currently based in Victoria, Canada. I'm a U
 
 In my research, I analyze images of nearby galaxies across ultraviolet, visible, and infrared wavelengths to study how their central structures (dense star clusters and/or supermssive black holes) form and evolve. I use tools like 2D image modeling, statistical optimization, and Bayesian inference (via Markov chain Monte Carlo) to extract physical properties from large datasets. I've also explored machine learning techniques, including clustering algorithms, to uncover patterns in galaxy groups and clusters. Through this work, I've built strong skills in data modeling, uncertainty estimation, and making sense of complex, noisy data, using open-source tools like Python.
 
-🔭 I specialize in image modeling and data-driven analysis of galaxies
-🧠 I enjoy working at the intersection of science, stats, and code
-🌱 I’m developing some personal projects to learn more about data structures and machine learning for pattern discovery and classification tasks
-🌱 I’m currently learning how to use GitHub (better late than never!)
+- 🔭 I specialize in image modeling and data-driven analysis of galaxies
+- 🧠 I enjoy working at the intersection of science, stats, and code
+- 🌱 I’m developing some personal projects to learn more about data structures and machine learning for pattern discovery and classification tasks
+- 🌱 I’m currently learning how to use GitHub (better late than never!)
 
 <!--
 **cspengler/cspengler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
